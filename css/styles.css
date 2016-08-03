@@ -1,0 +1,10 @@
+img{
+  width: 500px;
+  height: auto;
+}
+
+.column{
+  width: 500px;
+  float: left;
+  padding: 10px;
+}
